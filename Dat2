@@ -4682,3 +4682,1206 @@ Workspace:
 [MessageOutput] Instance Name: Spawned_Part
 [MessageOutput] Instance ClassName: MeshPart
 [MessageOutput] ---
+
+
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "gEJySgP"]', Line 13 - function deepCapture
+    Script '[string "gEJySgP"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "AKvIzPk"]', Line 13 - function deepCapture
+    Script '[string "AKvIzPk"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "xsFduxI"]', Line 13 - function deepCapture
+    Script '[string "xsFduxI"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "tFaJnbE"]', Line 13 - function deepCapture
+    Script '[string "tFaJnbE"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "Ojdk1H6"]', Line 13 - function deepCapture
+    Script '[string "Ojdk1H6"]', Line 29
+    Stack End
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "CjO6R7T"]', Line 8 - function deepCapture
+    Script '[string "CjO6R7T"]', Line 24
+    Stack End
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Color3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Color3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Vector3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Vector3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Vector3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Vector3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Vector3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Vector3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Vector3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "sl5rYMc"]', Line 14
+    Script '[string "sl5rYMc"]', Line 12 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 26 - function captureNode
+    Script '[string "sl5rYMc"]', Line 39
+    Stack End
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: faf1_e3 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] New object added: Part [Part]
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] New object added: Part [Part]
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] New object added: Part [Part]
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] New object added: Part [Part]
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] New object added: Part [Part]
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] New object added: Part [Part]
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] New object added: Part [Part]
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] Dynamic object added: Part Part
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] New object added: farfoor22 [Model]
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] New object added: YTkarasikML [Model]
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] Dynamic object added: YTkarasikML Model
+[MessageOutput] New object added: broaskariii [Model]
+[MessageOutput] New object added: broaskariii [Model]
+[MessageOutput] New object added: broaskariii [Model]
