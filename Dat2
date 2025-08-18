@@ -1,243 +1,235 @@
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "gEJySgP"]', Line 13 - function deepCapture
+    Script '[string "gEJySgP"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "AKvIzPk"]', Line 13 - function deepCapture
+    Script '[string "AKvIzPk"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "xsFduxI"]', Line 13 - function deepCapture
+    Script '[string "xsFduxI"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "tFaJnbE"]', Line 13 - function deepCapture
+    Script '[string "tFaJnbE"]', Line 29
+    Stack End
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "Ojdk1H6"]', Line 13 - function deepCapture
+    Script '[string "Ojdk1H6"]', Line 29
+    Stack End
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageOutput] Dynamic object added: younhs_12 Model
+[MessageError] Position is not a valid member of Workspace "Workspace"
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1022
+    Script '[string "CjO6R7T"]', Line 8 - function deepCapture
+    Script '[string "CjO6R7T"]', Line 24
+    Stack End
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
 [MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
 [MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "7Irivjo"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "7Irivjo"]', Line 9
-    Stack End
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: farfoor22 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: Multizone Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
 [MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageWarning] Infinite yield possible on 'Players.im_shockel:WaitForChild("trackstats")'
-[MessageInfo] Stack Begin
-[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 45 - function AssignUserInformation
-[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 129 - function _Create_PlayerListTemplate
-[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 436 - function PlayerListTemplate_Default
-[MessageInfo] Script 'ReplicatedStorage.Modules.Interface.PlayerListHandler', Line 87 - function PlayerAdded
-[MessageInfo] Stack End
-[MessageWarning] Infinite yield possible on 'Players.im_shockel:WaitForChild("trackstats")'
-[MessageInfo] Stack Begin
-[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 45 - function AssignUserInformation
-[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 129 - function _Create_PlayerListTemplate
-[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 459 - function PlayerListTemplate_Trade
-[MessageInfo] Script 'ReplicatedStorage.Modules.Interface.TradeListHandler', Line 23 - function PlayerAdded
-[MessageInfo] Stack End
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Spiral MeshPart
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: Rock Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: adalin_catali208331 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
 [MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "dcgNDhO"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "dcgNDhO"]', Line 9
-    Stack End
-[MessageError] [string "l9Cd3bV"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "l9Cd3bV"]', Line 9
-    Stack End
-[MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageError] [string "ytdUZm3"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "ytdUZm3"]', Line 9
-    Stack End
-[MessageError] [string "guKERRK"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "guKERRK"]', Line 9
-    Stack End
-[MessageError] [string "3thhCGJ"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "3thhCGJ"]', Line 9
-    Stack End
-[MessageError] [string "Qtslru3"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "Qtslru3"]', Line 9
-    Stack End
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "AFZhCa6"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "AFZhCa6"]', Line 9
-    Stack End
-[MessageError] [string "w80ySuV"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
-    Stack Begin
-    Script '[string "w80ySuV"]', Line 9
-    Stack End
-[MessageError] [string "Q85KIib"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "Q85KIib"]', Line 3 - function countScripts
-    Script '[string "Q85KIib"]', Line 12
-    Stack End
-[MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageError] [string "mWguSM8"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "mWguSM8"]', Line 3 - function countScripts
-    Script '[string "mWguSM8"]', Line 12
-    Stack End
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "Lm2pqw2"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "Lm2pqw2"]', Line 3 - function countScripts
-    Script '[string "Lm2pqw2"]', Line 12
-    Stack End
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "pptI5cF"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "pptI5cF"]', Line 3 - function countScripts
-    Script '[string "pptI5cF"]', Line 12
-    Stack End
-[MessageError] [string "kzYflk4"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "kzYflk4"]', Line 3 - function countScripts
-    Script '[string "kzYflk4"]', Line 12
-    Stack End
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "Zcr9XWi"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "Zcr9XWi"]', Line 3 - function countScripts
-    Script '[string "Zcr9XWi"]', Line 12
-    Stack End
-[MessageError] [string "d60MiU2"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "d60MiU2"]', Line 3 - function validateAssets
-    Script '[string "d60MiU2"]', Line 11
-    Stack End
-[MessageError] [string "UpT5hus"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "UpT5hus"]', Line 3 - function validateAssets
-    Script '[string "UpT5hus"]', Line 11
-    Stack End
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "bUs5ZGl"]:1: attempt to index nil with 'Children'
-    Stack Begin
-    Script '[string "bUs5ZGl"]', Line 1
-    Stack End
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageError] [string "fv7VPGK"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "fv7VPGK"]', Line 3 - function collectMeshes
-    Script '[string "fv7VPGK"]', Line 11
-    Stack End
-[MessageError] [string "gRyXBgI"]:3: attempt to index nil with 'ClassName'
-    Stack Begin
-    Script '[string "gRyXBgI"]', Line 3 - function collectMeshes
-    Script '[string "gRyXBgI"]', Line 11
-    Stack End
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
-[MessageWarning] argument #1 expects a string, but boolean was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but boolean was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but Color3 was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but Color3 was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but boolean was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but boolean was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but boolean was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but boolean was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
-[MessageWarning] argument #1 expects a string, but boolean was passed
-    Stack Begin
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
-    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
-    Script '[string "1sb9nrX"]', Line 14
-    Script '[string "1sb9nrX"]', Line 12 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 26 - function captureNode
-    Script '[string "1sb9nrX"]', Line 39
-    Stack End
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: asrolovv999999999 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: nal77773 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: faisall_1155 Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: Billy Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: Am_killstreak Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: 3162cino31 Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: broaskariii Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
+[MessageOutput] Dynamic object added: LucasPKH15 Model
