@@ -1,533 +1,243 @@
-[MessageOutput] âœ… Logs copied to clipboard
-[MessageError] [string "O5ZMrMT"]:3: attempt to index nil with 'GetChildren'
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "7Irivjo"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
     Stack Begin
-    Script '[string "O5ZMrMT"]', Line 3
+    Script '[string "7Irivjo"]', Line 9
+    Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
+[MessageWarning] Infinite yield possible on 'Players.im_shockel:WaitForChild("trackstats")'
+[MessageInfo] Stack Begin
+[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 45 - function AssignUserInformation
+[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 129 - function _Create_PlayerListTemplate
+[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 436 - function PlayerListTemplate_Default
+[MessageInfo] Script 'ReplicatedStorage.Modules.Interface.PlayerListHandler', Line 87 - function PlayerAdded
+[MessageInfo] Stack End
+[MessageWarning] Infinite yield possible on 'Players.im_shockel:WaitForChild("trackstats")'
+[MessageInfo] Stack Begin
+[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 45 - function AssignUserInformation
+[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 129 - function _Create_PlayerListTemplate
+[MessageInfo] Script 'ReplicatedStorage.Modules.Packages.UICreator', Line 459 - function PlayerListTemplate_Trade
+[MessageInfo] Script 'ReplicatedStorage.Modules.Interface.TradeListHandler', Line 23 - function PlayerAdded
+[MessageInfo] Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "dcgNDhO"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
+    Stack Begin
+    Script '[string "dcgNDhO"]', Line 9
+    Stack End
+[MessageError] [string "l9Cd3bV"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
+    Stack Begin
+    Script '[string "l9Cd3bV"]', Line 9
     Stack End
 [MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageError] [string "NGNynpI"]:3: attempt to index nil with 'GetChildren'
+[MessageError] [string "ytdUZm3"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
     Stack Begin
-    Script '[string "NGNynpI"]', Line 3
+    Script '[string "ytdUZm3"]', Line 9
     Stack End
-[MessageError] [string "PKSm7Jg"]:3: attempt to index nil with 'GetChildren'
+[MessageError] [string "guKERRK"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
     Stack Begin
-    Script '[string "PKSm7Jg"]', Line 3
+    Script '[string "guKERRK"]', Line 9
     Stack End
-[MessageError] [string "j99kD8k"]:3: attempt to index nil with 'GetChildren'
+[MessageError] [string "3thhCGJ"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
     Stack Begin
-    Script '[string "j99kD8k"]', Line 3
+    Script '[string "3thhCGJ"]', Line 9
     Stack End
-[MessageError] [string "ADJYJ3t"]:3: attempt to index nil with 'GetChildren'
+[MessageError] [string "Qtslru3"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
     Stack Begin
-    Script '[string "ADJYJ3t"]', Line 3
+    Script '[string "Qtslru3"]', Line 9
     Stack End
-[MessageError] [string "ippcKwX"]:3: attempt to index nil with 'GetChildren'
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "AFZhCa6"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
     Stack Begin
-    Script '[string "ippcKwX"]', Line 3
+    Script '[string "AFZhCa6"]', Line 9
     Stack End
-[MessageError] [string "1f7UWWR"]:3: attempt to index nil with 'GetChildren'
+[MessageError] [string "w80ySuV"]:9: Failed to parse JSON! Data might be corrupted or incomplete.
     Stack Begin
-    Script '[string "1f7UWWR"]', Line 3
+    Script '[string "w80ySuV"]', Line 9
     Stack End
-[MessageError] [string "rj7k6x3"]:3: attempt to index nil with 'GetChildren'
+[MessageError] [string "Q85KIib"]:3: attempt to index nil with 'ClassName'
     Stack Begin
-    Script '[string "rj7k6x3"]', Line 3
-    Stack End
-[MessageError] [string "14wxilx"]:3: attempt to index nil with 'GetChildren'
-    Stack Begin
-    Script '[string "14wxilx"]', Line 3
-    Stack End
-[MessageError] [string "SQwbpco"]:3: attempt to index nil with 'GetChildren'
-    Stack Begin
-    Script '[string "SQwbpco"]', Line 3
-    Stack End
-[MessageError] [string "7cr0bYb"]:3: attempt to index nil with 'GetChildren'
-    Stack Begin
-    Script '[string "7cr0bYb"]', Line 3
+    Script '[string "Q85KIib"]', Line 3 - function countScripts
+    Script '[string "Q85KIib"]', Line 12
     Stack End
 [MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageError] Failed to load sound rbxassetid://7272755488: Requested asset is archived
-[MessageOutput] O 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] G 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] O 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] N 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] exclam 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] I 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] N 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] S 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] O 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] M 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] C 0.972549, 0.972549, 0.972549 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type4 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Hinge 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Keyhole 0.105882, 0.164706, 0.207843 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Type3 0.929412, 0.917647, 0.917647 0 Enum.Material.Snow
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Lock 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 0.560784, 0.611765 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.490196, 0.666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.45098, 0.792157, 0.937255 0 Enum.Material.Neon
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Lock 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Keyhole 0.105882, 0.164706, 0.207843 0 Enum.Material.Neon
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Hinge 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type4 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type4 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type4 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Lock 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Keyhole 0.105882, 0.164706, 0.207843 0 Enum.Material.Neon
-[MessageOutput] Hinge 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.854902, 0.556863, 0 0 Enum.Material.Neon
-[MessageOutput] Type4 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Hinge 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 1, 0.690196, 0 0 Enum.Material.Neon
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Lock 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Keyhole 0.105882, 0.164706, 0.207843 0 Enum.Material.Neon
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Hinge 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type3 0.560784, 0.298039, 0.164706 0 Enum.Material.WoodPlanks
-[MessageOutput] Type4 0.956863, 0.964706, 0.984314 0 Enum.Material.Metal
-[MessageOutput] Type2 0.792157, 0.796078, 0.819608 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Type1 0.733333, 0.737255, 0.752941 0 Enum.Material.Metal
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Hinge 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Hinge 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Hinge 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Hinge 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Type4 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type4 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type4 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Lock 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type4 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 0.560784, 0.611765 0.10000000149011612 Enum.Material.Marble
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Keyhole 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Slate
-[MessageOutput] Type2 0, 1, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.494118, 1 0 Enum.Material.Neon
-[MessageOutput] Base 0.87451, 0.87451, 0.870588 1 Enum.Material.Plastic
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Hinge 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Hinge 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Hinge 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Hinge 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type3 0.368627, 0.247059, 0.141176 0.15000000596046448 Enum.Material.WoodPlanks
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Lock 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type4 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type4 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type4 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type4 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Keyhole 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type2 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Type1 1, 0.764706, 0.431373 0 Enum.Material.Metal
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type4 0.878431, 0.698039, 0.815686 0 Enum.Material.Neon
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type4 0.878431, 0.698039, 0.815686 0 Enum.Material.Neon
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.Rubber
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Lock 0.847059, 0.478431, 0.819608 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type4 0.878431, 0.698039, 0.815686 0 Enum.Material.Neon
-[MessageOutput] Keyhole 0.878431, 0.698039, 0.815686 0 Enum.Material.Neon
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type4 0.878431, 0.698039, 0.815686 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.Rubber
-[MessageOutput] Type3 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.847059, 0.478431, 0.819608 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.94902, 0.588235, 0.980392 0 Enum.Material.SmoothPlastic
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type4 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type4 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Keyhole 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Lock 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type4 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type3 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type4 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type1 1, 0.4, 0.8 0 Enum.Material.Neon
-[MessageOutput] Type2 0.623529, 0.952941, 0.913725 0 Enum.Material.Neon
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Hinge 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.Rubber
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.Rubber
-[MessageOutput] Type4 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type4 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type4 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type4 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Keyhole 0.105882, 0.164706, 0.207843 0 Enum.Material.Neon
-[MessageOutput] Lock 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Hinge 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0, 1, 0 0 Enum.Material.Neon
-[MessageOutput] Type3 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0, 1, 0 0 Enum.Material.SmoothPlastic
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Lock 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Keyhole 0.105882, 0.164706, 0.207843 0 Enum.Material.Neon
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.Rubber
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.Rubber
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0.105882, 0.164706, 0.207843 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Horns 0.639216, 0.635294, 0.647059 0 Enum.Material.Plastic
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.Rubber
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.SmoothPlastic
-[MessageOutput] Lock 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.Rubber
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.Rubber
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Keyhole 0.458824, 0, 0 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.Rubber
-[MessageOutput] Type4 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type2 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type1 0.768627, 0.156863, 0.109804 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.Neon
-[MessageOutput] Type3 0.768627, 0.156863, 0.109804 0 Enum.Material.Concrete
-[MessageOutput] Base 0.639216, 0.635294, 0.647059 1 Enum.Material.Plastic
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.454902, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0, 0.454902, 1 0 Enum.Material.Neon
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type4 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Lock 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.454902, 1 0 Enum.Material.Neon
-[MessageOutput] Type4 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Keyhole 0.105882, 0.164706, 0.207843 0 Enum.Material.Neon
-[MessageOutput] Type2 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.454902, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.454902, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Type1 0, 0.454902, 1 0 Enum.Material.Neon
-[MessageOutput] Type1 0, 0.454902, 1 0 Enum.Material.Neon
-[MessageOutput] Type3 0.0666667, 0.0666667, 0.0666667 0 Enum.Material.SmoothPlastic
-[MessageOutput] Hinge 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
-[MessageOutput] Hinge 0.321569, 0.486275, 0.682353 0 Enum.Material.Neon
+[MessageError] [string "mWguSM8"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "mWguSM8"]', Line 3 - function countScripts
+    Script '[string "mWguSM8"]', Line 12
+    Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "Lm2pqw2"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "Lm2pqw2"]', Line 3 - function countScripts
+    Script '[string "Lm2pqw2"]', Line 12
+    Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "pptI5cF"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "pptI5cF"]', Line 3 - function countScripts
+    Script '[string "pptI5cF"]', Line 12
+    Stack End
+[MessageError] [string "kzYflk4"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "kzYflk4"]', Line 3 - function countScripts
+    Script '[string "kzYflk4"]', Line 12
+    Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "Zcr9XWi"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "Zcr9XWi"]', Line 3 - function countScripts
+    Script '[string "Zcr9XWi"]', Line 12
+    Stack End
+[MessageError] [string "d60MiU2"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "d60MiU2"]', Line 3 - function validateAssets
+    Script '[string "d60MiU2"]', Line 11
+    Stack End
+[MessageError] [string "UpT5hus"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "UpT5hus"]', Line 3 - function validateAssets
+    Script '[string "UpT5hus"]', Line 11
+    Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "bUs5ZGl"]:1: attempt to index nil with 'Children'
+    Stack Begin
+    Script '[string "bUs5ZGl"]', Line 1
+    Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageError] [string "fv7VPGK"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "fv7VPGK"]', Line 3 - function collectMeshes
+    Script '[string "fv7VPGK"]', Line 11
+    Stack End
+[MessageError] [string "gRyXBgI"]:3: attempt to index nil with 'ClassName'
+    Stack Begin
+    Script '[string "gRyXBgI"]', Line 3 - function collectMeshes
+    Script '[string "gRyXBgI"]', Line 11
+    Stack End
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] PrivateServerId cannot be checked on the client, please check on the server.
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Color3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but Color3 was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
+[MessageWarning] argument #1 expects a string, but boolean was passed
+    Stack Begin
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1095
+    Script 'CoreGui.RobloxGui.Modules.AvatarEditorPrompts', Line 1094
+    Script '[string "1sb9nrX"]', Line 14
+    Script '[string "1sb9nrX"]', Line 12 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 26 - function captureNode
+    Script '[string "1sb9nrX"]', Line 39
+    Stack End
