@@ -5883,5 +5883,62 @@ Workspace:
 [MessageOutput] Dynamic object added: YTkarasikML Model
 [MessageOutput] Dynamic object added: YTkarasikML Model
 [MessageOutput] New object added: broaskariii [Model]
+
+[MessageOutput] [+] Found Weapon: Demon Axe @ ReplicatedStorage.Old Stuff.Effects.Objects.Devil Axe Rig.Demon Axe
+[MessageOutput] [+] Found Weapon: Cyan_Neo_Blade @ Workspace.ROCK_33365.Cyan_Neo_Blade
 [MessageOutput] New object added: broaskariii [Model]
 [MessageOutput] New object added: broaskariii [Model]
+
+[MessageOutput] [!] Possible Remote: RequestDeviceCameraCFrame Path: RobloxReplicatedStorage.RequestDeviceCameraCFrame
+[MessageOutput] [!] Possible Remote: SendPlayerProfileSettings Path: RobloxReplicatedStorage.SendPlayerProfileSettings
+[MessageOutput] [!] Possible Remote: UpdateLocalPlayerBlockList Path: RobloxReplicatedStorage.UpdateLocalPlayerBlockList
+[MessageOutput] [!] Possible Remote: SendPlayerBlockList Path: RobloxReplicatedStorage.SendPlayerBlockList
+[MessageOutput] [!] Possible Remote: RequestDeviceCameraOrientationCapability Path: RobloxReplicatedStorage.RequestDeviceCameraOrientationCapability
+[MessageOutput] [!] Possible Remote: ContactListIrisInviteTeleport Path: RobloxReplicatedStorage.ContactListIrisInviteTeleport
+[MessageOutput] [!] Possible Remote: UpdateCurrentCall Path: RobloxReplicatedStorage.UpdateCurrentCall
+[MessageOutput] [!] Possible Remote: IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService Path: RobloxReplicatedStorage.IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService
+[MessageOutput] [!] Possible Remote: IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService Path: RobloxReplicatedStorage.IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService
+[MessageOutput] [!] Possible Remote: ReferredPlayerJoin Path: RobloxReplicatedStorage.ReferredPlayerJoin
+[MessageOutput] [!] Possible Remote: ReceiveLikelySpeakingUsers Path: RobloxReplicatedStorage.ReceiveLikelySpeakingUsers
+[MessageOutput] [!] Possible Remote: VoiceChatTokenRequest Path: RobloxReplicatedStorage.VoiceChatTokenRequest
+[MessageOutput] [!] Possible Remote: NewPlayerCanManageDetails Path: RobloxReplicatedStorage.NewPlayerCanManageDetails
+[MessageOutput] [!] Possible Remote: NewPlayerGroupDetails Path: RobloxReplicatedStorage.NewPlayerGroupDetails
+[MessageOutput] [!] Possible Remote: UpdatePlayerBlockList Path: RobloxReplicatedStorage.UpdatePlayerBlockList
+[MessageOutput] [!] Possible Remote: SetPlayerBlockList Path: RobloxReplicatedStorage.SetPlayerBlockList
+[MessageOutput] [!] Possible Remote: CanChatWith Path: RobloxReplicatedStorage.CanChatWith
+[MessageOutput] [!] Possible Remote: GetServerType Path: RobloxReplicatedStorage.GetServerType
+[MessageOutput] [!] Possible Remote: SetDialogInUse Path: RobloxReplicatedStorage.SetDialogInUse
+[MessageOutput] [!] Possible Remote: ContactListInvokeIrisInvite Path: RobloxReplicatedStorage.ContactListInvokeIrisInvite
+[MessageOutput] [!] Possible Remote: WhisperChat Path: RobloxReplicatedStorage.ExperienceChat.WhisperChat
+[MessageOutput] [!] Possible Remote: GetServerChannel Path: RobloxReplicatedStorage.GetServerChannel
+[MessageOutput] [!] Possible Remote: GetServerVersion Path: RobloxReplicatedStorage.GetServerVersion
+[MessageOutput] [!] Possible Remote: CreateAnnouncement Path: ReplicatedStorage.CreateAnnouncement
+[MessageOutput] [!] Possible Remote: CrystalTouched Path: ReplicatedStorage.Remotes.Badge Remotes.CrystalTouched
+[MessageOutput] [!] Possible Remote: EquipSword Path: ReplicatedStorage.Remotes.EquipSword
+[MessageOutput] [!] Possible Remote: LockSword Path: ReplicatedStorage.Remotes.LockSword
+[MessageOutput] [!] Possible Remote: UpdateSetting Path: ReplicatedStorage.Remotes.UpdateSetting
+[MessageOutput] [!] Possible Remote: RequestData Path: ReplicatedStorage.Remotes.RequestData
+[MessageOutput] [!] Possible Remote: PlaySound Path: ReplicatedStorage.Remotes.PlaySound
+[MessageOutput] [!] Possible Remote: ReceiveTrade Path: ReplicatedStorage.Remotes.Trade System.ReceiveTrade
+[MessageOutput] [!] Possible Remote: CancelTrade Path: ReplicatedStorage.Remotes.Trade System.CancelTrade
+[MessageOutput] [!] Possible Remote: RemoveTrade Path: ReplicatedStorage.Remotes.Trade System.RemoveTrade
+[MessageOutput] [!] Possible Remote: TradeResponse Path: ReplicatedStorage.Remotes.Trade System.TradeResponse
+[MessageOutput] [!] Possible Remote: SendTrade Path: ReplicatedStorage.Remotes.Trade System.SendTrade
+[MessageOutput] [!] Possible Remote: UpdateTradeToggle Path: ReplicatedStorage.Remotes.Trade System.UpdateTradeToggle
+[MessageOutput] [!] Possible Remote: SystemMessage Path: ReplicatedStorage.Remotes.Chat System.SystemMessage
+[MessageOutput] [!] Possible Remote: isHatchEnabled Path: ReplicatedStorage.Remotes.isHatchEnabled
+[MessageOutput] [!] Possible Remote: UnlockTripleOpen Path: ReplicatedStorage.Remotes.UnlockTripleOpen
+[MessageOutput] [!] Possible Remote: DeviceTypeRemote Path: ReplicatedStorage.Remotes.DeviceTypeRemote
+[MessageOutput] [!] Possible Remote: PurchaseBundle Path: ReplicatedStorage.Remotes.PurchaseBundle
+[MessageOutput] [!] Possible Remote: ClaimSwordReward Path: ReplicatedStorage.Remotes.ClaimSwordReward
+[MessageOutput] [!] Possible Remote: RedeemCode Path: ReplicatedStorage.Remotes.RedeemCode
+[MessageOutput] [!] Possible Remote: Notification Path: ReplicatedStorage.Remotes.Notification
+[MessageOutput] [!] Possible Remote: LogKill Path: ReplicatedStorage.Remotes.LogKill
+[MessageOutput] [!] Possible Remote: RbxPrompt Path: ReplicatedStorage.Remotes.RbxPrompt
+[MessageOutput] [!] Possible Remote: VisualEffect Path: ReplicatedStorage.Remotes.VisualEffect
+[MessageOutput] [!] Possible Remote: TimeStorage Path: ReplicatedStorage.Remotes.TimeStorage
+[MessageOutput] [!] Possible Remote: WorldTeleport Path: ReplicatedStorage.Remotes.WorldTeleport
+[MessageOutput] [!] Possible Remote: OpenCase Path: ReplicatedStorage.Remotes.OpenCase
+[MessageOutput] [!] Possible Remote: UnlockWorld Path: ReplicatedStorage.Remotes.UnlockWorld
+[MessageOutput] [!] Possible Remote: SwitchChattag Path: ReplicatedStorage.Remotes.SwitchChattag
+[MessageOutput] [!] Possible Remote: DeviceTypeRemote Path: ReplicatedStorage.DeviceTypeRemote
